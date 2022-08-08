@@ -6,10 +6,10 @@
 
 ⚡ I'm a Data Science student in Milan (Italy). In my portfolio I upload University and personal projects:
 
-- My Portfolio ( URL repo)
+   - My Portfolio ( URL repo)
 
 
-🔭 I’m currently learning machine learning and deep learning 
+🔭 I’m currently studying machine learning and deep learning 
 
 
 📫 You can find me on Linkedin and Kaggle:
