@@ -12,6 +12,7 @@
 🔭 I’m currently working on:
   - Text Mining and Data visualization project for University
   - Deep Learning project for University
+ :construction_worker:
 
 
 📫 You can find me on Linkedin and Kaggle:
