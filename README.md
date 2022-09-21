@@ -9,7 +9,7 @@
    - My Portfolio ( URL repo)
 
 
- :construction_worker: :construction: I’m currently working on:
+:construction: I’m currently working on:
   - Text Mining and Data visualization project for University
   - Deep Learning project for University
 
