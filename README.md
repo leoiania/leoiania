@@ -9,7 +9,9 @@
    - My Portfolio ( URL repo)
 
 
-🔭 I’m currently studying machine learning and deep learning 
+🔭 I’m currently working on:
+  - Text Mining and Data visualization project for University
+  - Deep Learning project for University
 
 
 📫 You can find me on Linkedin and Kaggle:
