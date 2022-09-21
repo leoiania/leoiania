@@ -6,7 +6,7 @@
 
 ⚡ I'm a Data Science student in Milan (Italy). In my portfolio I upload University and personal projects:
 
-   - My Portfolio ( URL repo)
+   - [My Portfolio](https://github.com/leoiania/portfolio)
 
 
 :construction: I’m currently working on:
