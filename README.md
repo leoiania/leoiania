@@ -8,6 +8,11 @@
 
    # My Portfolio:
    
+## :large_blue_diamond: Natural Language Processing
+### :small_blue_diamond: The course in general
+
+### :newspaper: 20 Newsgroup Classification
+   
 
 ## :large_blue_diamond: Applied Linear Models
 ### :small_blue_diamond: The course in general
@@ -17,9 +22,7 @@ The arguments was related to linear regression in general, **predictions**, mode
 ### The project: [Red Wine Quality](https://github.com/leoiania/Red-Wine-Quality)
 This is a brief description, a full analysis is available [here](https://github.com/leoiania/Red-Wine-Quality).
 The dataset is probably one of the most known in data science field, our interest was to see how physiochemical properties affect the quality of the red wine using a Binomial model and a Multinomial model to divide the categories of the quality. The latter, which is the response variable, is given from feedback of different consumers of each wine.
-
-
-# 
+##
 ## :large_blue_diamond: Bayesian Modelling
 ### :small_blue_diamond: The course in general
 Bayesian statistics is a powerful methodology that over the years has gained wide recognition because it is sound, flexible, produces clear answers, and makes use of a variety of information. It has become an indispensable resource for scientific and social science researchers. The course deal with foundations, models and computation.
