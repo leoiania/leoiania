@@ -6,7 +6,9 @@
 
 ⚡ I'm a Data Science student in Milan (Italy). In my portfolio I upload University and personal projects:
 
-   ### My Portfolio:
+   # My Portfolio:
+   
+
 ## :large_blue_diamond: Applied Linear Models
 ### :small_blue_diamond: The course in general
 The course focuses on **linear models** and generalized linear models employed to explain how a response variable relates to one or more explanatory variables.
@@ -30,7 +32,10 @@ The complete analysis is [here](https://github.com/leoiania/portfolio/tree/main/
 #### :globe_with_meridians: [The official markdown presented during the exam](https://graduatesadmissionprediction.000webhostapp.com/)
 
 
-:construction: I’m currently working on:
+
+
+
+# :construction: I’m currently working on:
   - Deep Learning project for University
 
 
