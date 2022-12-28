@@ -4,7 +4,7 @@
 </div>
 
 
-⚡ I'm a Data Science student in Milan (Italy). In my portfolio I upload University and personal projects:
+⚡ I'm a Data Science student in Milan (Italy).
 
    # My Portfolio:
    
