@@ -6,11 +6,31 @@
 
 ⚡ I'm a Data Science student in Milan (Italy). In my portfolio I upload University and personal projects:
 
-   ### [My Portfolio](https://github.com/leoiania/portfolio)
+   ### My Portfolio:
+## :large_blue_diamond: Applied Linear Models
+### :small_blue_diamond: The course in general
+The course focuses on **linear models** and generalized linear models employed to explain how a response variable relates to one or more explanatory variables.
+The arguments was related to linear regression in general, **predictions**, model **validation and selection**, and ended with **generalized** and **mixed** linear models 
+
+### :wine_glass: The project: [Red Wine quality](https://github.com/leoiania/portfolio/tree/main/Red%20Wine%20Quality)
+This is a brief description, a full analysis is available [here](https://github.com/leoiania/portfolio/tree/main/Red%20Wine%20Quality), in its folder.
+The dataset is probably one of the most known in data science field, our interest was to see how physiochemical properties affect the quality of the red wine using a Binomial model and a Multinomial model to divide the categories of the quality. The latter, which is the response variable, is given from feedback of different consumers of each wine.
+
+
+
+## :large_blue_diamond: Bayesian Modelling
+### :small_blue_diamond: The course in general
+Bayesian statistics is a powerful methodology that over the years has gained wide recognition because it is sound, flexible, produces clear answers, and makes use of a variety of information. It has become an indispensable resource for scientific and social science researchers. The course deal with foundations, models and computation.
+
+### :books: [Graduates Admission Prediction following a Bayesian approach](https://github.com/leoiania/portfolio/tree/main/Graduates%20Admission%20Bayesian%20Prediction)
+Unlike the project about the red wine, this [dataset](https://www.kaggle.com/datasets/mukeshmanral/graduates-admission-prediction) is not known (when we used it, there was only 3 project about it on Kaggle). Given some features, the data comes from an original model which gives as response the Chance of being admitted to a certain Master Programme. Starting from this information, we tried to model those chance in two different way: a logistic regression and a **beta regression**. You can think about them as a very easy task, but what makes it different is the **Bayesian Approach** that led the development of this project. Enjoy it!
+
+The complete analysis is [here](https://github.com/leoiania/portfolio/tree/main/Graduates%20Admission%20Bayesian%20Prediction).
+
+#### :globe_with_meridians: [The official markdown presented during the exam](https://graduatesadmissionprediction.000webhostapp.com/)
 
 
 :construction: I’m currently working on:
-  - Text Mining and Data visualization project for University
   - Deep Learning project for University
 
 
