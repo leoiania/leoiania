@@ -10,8 +10,9 @@
    
 ## :large_blue_diamond: Natural Language Processing
 ### :small_blue_diamond: The course in general
-
+This course focuses on **NLP**, covering the concepts of: text classification and generation, Sentiment Analysis, Topic Modelling, Embeddings. Moreover, one of the most relevant part is focused on deep neural network applied to text, using NLTK, SpaCy, TensorFlow - Keras and Pytorch. In the last part we learnt the Attention Concept and how it's used for encoder-decoder algorithm and transformers.
 ### :newspaper: 20 Newsgroup Classification
+The dataset, which is very popular in NLP tasks, contains about 20.000 documents divided into 20 categories. Our task was to classify the documents based on their content with three approaches: Machine Learning, Neural networks, Transformers.
    
 
 ## :large_blue_diamond: Applied Linear Models
