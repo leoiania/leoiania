@@ -7,6 +7,14 @@
 ⚡ I'm a Data Science student in Milan (Italy).
 
    # My Portfolio:
+
+## :large_blue_diamond: Deep Learning for AI
+### :small_blue_diamond: The course in general
+In this course we've learned what Neural Networks are and how they can be used in modelling data. We used pytorch library for creating our projects. We covered different neural networks concept: starting from the linear neural network, we moved to the convolutional and RRN. We deepened some popular architectures like AlexNet, GoogleNet, LSTM, etc.
+
+### :birthday: [UTK Face Age and Ethnicity prediction](https://github.com/leoiania/utk-age-and-ethnicity)
+In general, we had to deal with the ethnicity classification and age prediction (as real value) starting from pictures of 20000+ people. The most difficult part of this project was the problem about the loss function and the distribution of the prediction - I explain this part better in the README file and, of course, in the notebook.
+
    
 ## :large_blue_diamond: Natural Language Processing
 ### :small_blue_diamond: The course in general
