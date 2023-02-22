@@ -48,8 +48,6 @@ The complete analysis is in its repository [here](https://github.com/leoiania/Gr
 
 
 
-# :construction: I’m currently working on:
-  - Deep Learning project for University
 
 
 
