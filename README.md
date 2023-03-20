@@ -6,6 +6,8 @@
 
 ⚡ I'm a Data Science student in Milan (Italy).
 
+🔭 I’m currently working on **deployment of my already done projects**
+
    # My Portfolio:
 
 ## :large_blue_diamond: Deep Learning for AI
