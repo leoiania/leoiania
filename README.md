@@ -11,16 +11,19 @@
    # My Portfolio:
 
 ## :large_blue_diamond: Deep Learning for AI and Flask Web App for Age prediction!
-<div align="center">
-  <img src="[https://media.giphy.com/media/QKWb49EBsGpDXdwt41/giphy.gif](https://raw.githubusercontent.com/leoiania/wind-energy-germany-analysis-and-forecast/main/forecast1.gif)" width="600" height="150"/>
-</div>
 ### :small_blue_diamond: The course in general
 In this course we've learned what Neural Networks are and how they can be used in modelling data. We used pytorch library for creating our projects. We covered different neural networks concept: starting from the linear neural network, we moved to the convolutional and RRN. We deepened some popular architectures like AlexNet, GoogleNet, LSTM, etc.
 
 ### :birthday: [UTK Face Age and Ethnicity prediction](https://github.com/leoiania/utk-age-and-ethnicity)
 In general, we had to deal with the ethnicity classification and age prediction (as real value) starting from pictures of 20000+ people. The most difficult part of this project was the problem about the loss function and the distribution of the prediction - I explain this part better in the README file and, of course, in the notebook.
 
-   
+## :large_blue_diamond: Wind Energy production - Time Series Analysis and forecasting web app 
+### :small_blue_diamond: The course in general
+The course was made for understanding concept concerning time series analysis (stationarity, autocorrelation, etc.) and model this type of data.
+
+### :clock1: 
+Me and 3 colleagues of mine decided to model the wind energy production in Germany, using AR e ARX approach. Originally the project was made in R but I decided by myself to convert it in Python and moreover **build a Flask web-app** that can be used for specific forecast periods.
+  
 ## :large_blue_diamond: Natural Language Processing
 ### :small_blue_diamond: The course in general
 This course focuses on **NLP**, covering the concepts of: text classification and generation, Sentiment Analysis, Topic Modelling, Embeddings. Moreover, one of the most relevant part is focused on deep neural network applied to text, using NLTK, SpaCy, TensorFlow - Keras and Pytorch. In the last part we learnt the Attention Concept and how it's used for encoder-decoder algorithm and transformers.
