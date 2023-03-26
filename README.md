@@ -10,7 +10,10 @@
 
    # My Portfolio:
 
-## :large_blue_diamond: Deep Learning for AI
+## :large_blue_diamond: Deep Learning for AI and Flask Web App for Age prediction!
+<div align="center">
+  <img src="[https://media.giphy.com/media/QKWb49EBsGpDXdwt41/giphy.gif](https://raw.githubusercontent.com/leoiania/wind-energy-germany-analysis-and-forecast/main/forecast1.gif)" width="600" height="150"/>
+</div>
 ### :small_blue_diamond: The course in general
 In this course we've learned what Neural Networks are and how they can be used in modelling data. We used pytorch library for creating our projects. We covered different neural networks concept: starting from the linear neural network, we moved to the convolutional and RRN. We deepened some popular architectures like AlexNet, GoogleNet, LSTM, etc.
 
