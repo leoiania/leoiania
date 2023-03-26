@@ -21,8 +21,11 @@ In general, we had to deal with the ethnicity classification and age prediction 
 ### :small_blue_diamond: The course in general
 The course was made for understanding concept concerning time series analysis (stationarity, autocorrelation, etc.) and model this type of data.
 
-### :clock1: 
+### :clock1: [Wind Energy in Germany forecast](https://github.com/leoiania/wind-energy-germany-analysis-and-forecast)
 Me and 3 colleagues of mine decided to model the wind energy production in Germany, using AR e ARX approach. Originally the project was made in R but I decided by myself to convert it in Python and moreover **build a Flask web-app** that can be used for specific forecast periods.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/leoiania/wind-energy-germany-analysis-and-forecast/main/forecast1.gif" width="600" height="300"/>
+</div>
   
 ## :large_blue_diamond: Natural Language Processing
 ### :small_blue_diamond: The course in general
