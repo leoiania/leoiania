@@ -10,12 +10,16 @@
 
    # My Portfolio:
 
-## :large_blue_diamond: Deep Learning for AI and Flask Web App for Age prediction!
+## :large_blue_diamond: Deep Learning for AI and Streamlit App for Age prediction!
 ### :small_blue_diamond: The course in general
 In this course we've learned what Neural Networks are and how they can be used in modelling data. We used pytorch library for creating our projects. We covered different neural networks concept: starting from the linear neural network, we moved to the convolutional and RRN. We deepened some popular architectures like AlexNet, GoogleNet, LSTM, etc.
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/leoiania/utk-age-and-ethnicity/master/age_preds.gif" width="600" height="300"/>
+</div>
+
 ### :birthday: [UTK Face Age and Ethnicity prediction](https://github.com/leoiania/utk-age-and-ethnicity)
-In general, we had to deal with the ethnicity classification and age prediction (as real value) starting from pictures of 20000+ people. The most difficult part of this project was the problem about the loss function and the distribution of the prediction - I explain this part better in the README file and, of course, in the notebook.
+In general, we had to deal with the ethnicity classification and age prediction (as real value) starting from pictures of 20000+ people. The most difficult part of this project was the problem about the loss function and the distribution of the prediction - I explain this part better in the README file and, of course, in the notebook. In March I implemented a Streamlit app that returns the predicted age starting from a user-uploaded picture.
 
 ## :large_blue_diamond: Wind Energy production - Time Series Analysis and forecasting web app 
 ### :small_blue_diamond: The course in general
