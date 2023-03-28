@@ -10,7 +10,7 @@
 
    # My Portfolio:
 
-## :large_blue_diamond: Deep Learning for AI and Streamlit App for Age prediction!
+## :large_blue_diamond: Deep Learning for AI and [Published Streamlit App for Age prediction](https://leoiania-utk-age-and-ethnicity-app-l3szgo.streamlit.app/)!
 ### :small_blue_diamond: The course in general
 In this course we've learned what Neural Networks are and how they can be used in modelling data. We used pytorch library for creating our projects. We covered different neural networks concept: starting from the linear neural network, we moved to the convolutional and RRN. We deepened some popular architectures like AlexNet, GoogleNet, LSTM, etc.
 
