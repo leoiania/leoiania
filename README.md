@@ -1,7 +1,4 @@
 ## Hi there 👋, I'm Leonardo
-<div align="center">
-  <img src="https://media.giphy.com/media/QKWb49EBsGpDXdwt41/giphy.gif" width="600" height="150"/>
-</div>
 
 
 ⚡ I'm a Data Science student in Milan (Italy).
