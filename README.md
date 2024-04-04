@@ -1,9 +1,9 @@
 ## Hi there 👋, I'm Leonardo
 
 
-⚡ I'm a Data Science student in Milan (Italy).
+⚡ I'm a Machine Learning Engineer in Milan (Italy).
 
-🔭 I’m currently working on **the deployment of my already done projects**
+🔭 I’m currently working on **different generative AI projects**, both for my 9-18 work and for myself.
 
    # My Portfolio:
 
