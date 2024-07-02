@@ -3,7 +3,7 @@
 
 ⚡ I'm a Machine Learning Engineer in Milan (Italy).
 
-🔭 I’m currently working on **different generative AI projects**, both for my 9-18 work and for myself.
+🔭 I’m currently working on **different generative AI projects**
 
    # My Portfolio:
 
